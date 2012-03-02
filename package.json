@@ -1,0 +1,15 @@
+{
+	"name": "emi",
+	"description": "a stupidly tiny event emitter",
+	"version": "0.0.2",
+	"license": "MIT (http://mootools.net/license.txt)",
+	"main": "./lib/main.js",
+	"keywords": ["events", "emitter"],
+	"homepage": "http://github.com/kamicane/emi",
+	"author": "Valerio Proietti <@kamicane> (http://mad4milk.net)",
+	"bugs": "https://github.com/kamicane/emi/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kamicane/emi.git"
+	}
+}
